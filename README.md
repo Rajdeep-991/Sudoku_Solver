@@ -15,7 +15,7 @@ Requirements
 ------------
 - Java Development Kit (JDK)
 
-How to Use
+How To Use
 ----------
 - Ensure you have the Java Development Kit (JDK) installed.
 - Copy the provided code into a Java file, e.g., Sudoku_Solver.java.
